@@ -48585,7 +48585,7 @@ Dual licensed under the MIT and GPL licenses.
     _.Yby = function () {
       return {
         Authorization: _.B0a([], !0),
-        "X-Goog-Api-Key": "AIzaSyBwQcjgmXUAsw5r4FZXO5t8_EZ_aUm_TGE",
+        "X-Goog-Api-Key": "#",
         "X-Goog-AuthUser": _.ll(_.tc("QrtxK"), "0"),
         "X-Goog-Encode-Response-If-Executable": "base64"
       }
